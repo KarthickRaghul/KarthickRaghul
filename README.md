@@ -1,5 +1,4 @@
 # 💫 About Me:
-<div align="center">
   <h1>Hi 👋, I'm Karthick Raghul S J</h1>
   <h3>A passionate cybersecurity enthusiast</h3>
 
@@ -12,7 +11,6 @@
   - 📫 How to reach me **karthickraghul123@gmail.com**
 
   - ⚡ Fun fact **Trust , but verify!**
-</div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
