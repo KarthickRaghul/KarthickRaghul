@@ -10,8 +10,6 @@
 
   - 📫 How to reach me **karthickraghul123@gmail.com**
 
-  - ⚡ Fun fact **Trust , but verify!**
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://linkedin.com/in/karthick raghul s j" target="blank">
