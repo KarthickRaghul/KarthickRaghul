@@ -12,7 +12,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://linkedin.com/in/karthick raghul s j" target="blank">
+  <a href="https://www.linkedin.com/in/karthick-raghul-s-j" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthick raghul s j" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/karthickraghul5" target="blank">
