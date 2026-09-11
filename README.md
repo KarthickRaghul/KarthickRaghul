@@ -1,95 +1,105 @@
-# 💫 About Me:
-  <h1>Hi 👋, I'm Karthick Raghul S J</h1>
-  <h3>A passionate cybersecurity enthusiast</h3>
-
-  - 🔭 I’m currently working on **Imporoving my skills**
-
-  - 🌱 I’m currently learning **Red Teaming and Blue Teaming**
-
-  - 💬 Ask me about **Networking , Basics of Red Teaming , Linux and Competitive Programming**
-
-  - 📫 How to reach me **karthickraghul123@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/karthick-raghul-s-j" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthick raghul s j" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/karthickraghul5" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthickraghul5" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/karthickr5we4" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karthickr5we4" height="30" width="40" />
-  </a>
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:022c22,100:00ffa3&height=180&section=header&text=KARTHICK%20RAGHUL%20S%20J&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
+
+<!-- Dynamic Typing Animation -->
+<a href="https://github.com/KarthickRaghul">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=const+role+%3D+%22Cybersecurity+Researcher%22%3B;VAPT+%E2%80%A2+Threat+Detection+%E2%80%A2+SIEM;Go+%26+C%2B%2B+Low-Level+Systems;AWS+Certified+Cloud+Practitioner;LeetCode+Knight+%7C+Top+3%25+Global;" alt="Typing SVG" />
+</a>
+
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<br/>
+
+### `> whoami`
+
+```bash
+karthick@sec-ops:~$ cat about.md
+```
+
+> **Cybersecurity researcher & systems-focused developer** operating at the intersection of offensive/defensive security and resilient infrastructure. Passionate about vulnerability research, log telemetry & SIEM hunting, cloud hardening, and writing low-latency system utilities with algorithmic precision.
+
+---
+
+### `0x01 // TACTICAL DOMAINS`
+
+```
+┌──[ 🛡️ OFFENSIVE // VAPT & APPSEC ]
+│   ├── OWASP Top 10 web & API vulnerability assessments
+│   └── Network enumeration, access control testing & exploit analysis
+│
+├──[ 🛰️ DEFENSIVE // SEC-OPS & DETECTION ]
+│   ├── SIEM telemetry & rule writing (Wazuh, Splunk, Nessus)
+│   └── Active Directory analysis, ISO 27001 & NIST compliance frameworks
+│
+├──[ ⚡ CORE SYSTEMS // LOW-LEVEL & CONCURRENCY ]
+│   ├── High-performance algorithmic problem solving (700+ solved • LeetCode Knight)
+│   └── Thread-safe architectures, multi-threading, and Linux system-level tooling
+│
+└──[ ☁️ CLOUD HARDENING // ARCHITECTURE & FORENSICS ]
+    ├── AWS security architecture & serverless pipelines (AWS Certified: 914/1000)
+    └── Cryptographic chain-of-custody verification & digital forensics
+```
+
+---
+
+### `0x02 // SYSTEM WEAPONRY & TOOLCHAIN`
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>SecOps & Auditing</b></td>
+    <td>
+      <code>Wazuh</code> <code>Splunk</code> <code>Nessus</code> <code>Active Directory</code> <code>Burp Suite</code> <code>Nmap</code> <code>Wireshark</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>Languages</b></td>
+    <td>
+      <code>Go</code> <code>C++</code> <code>Python</code> <code>Java</code> <code>Bash</code> <code>TypeScript</code> <code>SQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>Cloud & DevOps</b></td>
+    <td>
+      <code>AWS</code> <code>Docker</code> <code>Kubernetes</code> <code>Linux (Kernel/Admin)</code> <code>Git</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>Data & Storage</b></td>
+    <td>
+      <code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> <code>DynamoDB</code> <code>FastAPI</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### `0x03 // LIVE TELEMETRY`
+
 <div align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarthickRaghul/KarthickRaghul/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarthickRaghul/KarthickRaghul/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KarthickRaghul/KarthickRaghul/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+  <br/><br/>
 </div>
 
-# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthickRaghul&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KarthickRaghul&theme=github_dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthickRaghul&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthickRaghul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00ffa3&icon_color=38bdf8&text_color=94a3b8" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthickRaghul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00ffa3&text_color=94a3b8" height="150" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=KarthickRaghul&theme=tokyonight&hide_border=true&background=0b0f19&ring=00ffa3&fire=00ffa3&currStreakLabel=00ffa3&sideNums=38bdf8&sideLabels=94a3b8&dates=64748b" width="85%" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,100:00ffa3&height=4&section=footer" width="100%" />
+  <sub><code>[STATUS: ACTIVE] // [INTEGRITY: VERIFIED]</code></sub>
+</div>
+
