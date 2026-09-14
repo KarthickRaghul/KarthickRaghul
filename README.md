@@ -77,19 +77,6 @@ karthick@sec-ops:~$ cat about.md
 
 ### `0x03 // LIVE TELEMETRY`
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarthickRaghul/KarthickRaghul/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarthickRaghul/KarthickRaghul/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KarthickRaghul/KarthickRaghul/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-  <br/><br/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthickRaghul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00ffa3&icon_color=38bdf8&text_color=94a3b8" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthickRaghul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00ffa3&text_color=94a3b8" height="150" alt="Top Languages" />
-</div>
 
 <div align="center">
   <br/>
@@ -97,9 +84,4 @@ karthick@sec-ops:~$ cat about.md
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,100:00ffa3&height=4&section=footer" width="100%" />
-  <sub><code>[STATUS: ACTIVE] // [INTEGRITY: VERIFIED]</code></sub>
-</div>
 
